@@ -15,5 +15,5 @@ hello world Git!
 hello world Git!
 hello world Git!
 hello world Git!
-hello world Git!
+hello world Git! version 3.2 master
 hello world Git!
